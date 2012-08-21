@@ -1,0 +1,1221 @@
+[33mcommit 71ec011549edf7a9b0d8f4b1f44d5cba654db5bd[m
+Author: Giordhano <giordhanovaldez@gmail.com>
+Date:   Tue Aug 21 00:00:39 2012 -0500
+
+    Primera actualizacion
+
+[33mcommit 102a7d930dcf0d2a0656cfb48fca76c8712ae6a7[m
+Author: Giordhano <giordhanovaldez@gmail.com>
+Date:   Tue Aug 21 00:00:03 2012 -0500
+
+    Primera actualizacion
+
+[33mcommit 9ccb39dc8edb605e68c671494ec34163d9759cdf[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat May 5 14:59:32 2012 +0300
+
+    examples and demos moved to wiki
+
+[33mcommit 028a298341942ef6d928aa34ba226e41b4ae0f19[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Apr 20 21:45:36 2012 +0000
+
+    removed double dashes `--` from HTML comments as Firefox was marking them as invalid
+
+[33mcommit 24cef7f5057c4d2dedbd5f60640c64da09181d02[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 28 22:03:28 2012 +0000
+
+    some CSS tricks described in comments
+
+[33mcommit edff5a08c1903960e0550377a07bde9684774654[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Apr 4 21:32:17 2012 +0000
+
+    release 0.5.3
+
+[33mcommit 2da949ea1893494ede1e2cbf807608273d02f191[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Apr 4 19:39:30 2012 +0000
+
+    stopped using `transitionend` event to provide more consistent `impress:stepenter` triggering even if there is no transition
+
+[33mcommit 8949aae00ea126151332749d44836f543ed5ff66[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Apr 4 18:23:23 2012 +0000
+
+    next version
+
+[33mcommit 84e5d62349289a303de3e785d50adccf23190ef7[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 31 19:49:52 2012 +0000
+
+    correct 0.5.2 release links
+
+[33mcommit 9e6b22dccc920a69c3fa82d61378340d172576d4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 31 19:46:42 2012 +0000
+
+    release 0.5.2
+
+[33mcommit c87d7dff487137ca62681d66a3667f2862302997[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 31 19:44:15 2012 +0000
+
+    finally some more descriptive comments in js
+
+[33mcommit de6c37949fecfa4b06bbac7bc9f3aed90cae9b3b[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 28 18:14:00 2012 +0000
+
+    next version in development
+
+[33mcommit d3ce5a87359459060696ce6cbcb7a80f1813b535[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 21 08:13:35 2012 +0000
+
+    release 0.5.1
+
+[33mcommit c7f5771211b4f400ef8ae92204246a2537f24139[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 21 08:05:18 2012 +0000
+
+    fixing clicking links on active steps
+
+[33mcommit 2a9e9b859c40a3d6b4fcbb8b36670b4bc74427a4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 20 21:56:01 2012 +0000
+
+    missing note about `init()` function
+
+[33mcommit 88662339a96563cba0b7e10884f8e42bb92081c5[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 20 21:37:08 2012 +0000
+
+    release 0.5
+
+[33mcommit 10b14ba7681d7ff1e0f6a8097ae80750180967c2[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 20 21:28:43 2012 +0000
+
+    docs updated with recent changes
+
+[33mcommit 9af7fe0f3e457bb7ed22ee19958d9a402e8266c8[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 19 21:28:16 2012 +0000
+
+    no need to delay transitions with `present` class
+
+[33mcommit fb32cf1bddfab230e9e3a9514070f4f1aff3241f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 19 20:21:01 2012 +0000
+
+    only call enter and leave events when necessary
+
+[33mcommit b3d680eab461db09db537e9da26e601ce59b84ad[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Mar 18 20:15:46 2012 +0000
+
+    lowercase event names to keep DOM events convention, with backbone-style impress: namespace - in courtesy of @medikoo
+
+[33mcommit b0c5644b475a09704ea010025b491fd9211122c3[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 14 22:53:17 2012 +0000
+
+    "`goto` now accepts duration parameter"
+
+[33mcommit 9d99c03392eda04e35a50a18dad9a7e121dedcac[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 14 22:06:57 2012 +0000
+
+    "`goto` now accepts more types of parameters: numbers, id strings and DOM elements"
+
+[33mcommit 1a21865ea693f5a59ea95a429731c833f525893d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 14 20:44:04 2012 +0000
+
+    "`goto` is back, bye bye ugly `stepTo`"
+
+[33mcommit c4d6ab3b8a93182a11dd0099afa3d129a5d21074[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 23:48:55 2012 +0000
+
+    "added recent changes to README"
+
+[33mcommit b2ba0ee4214d0e6c943dddc7ef0dbd6b90199e3f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 23:43:59 2012 +0000
+
+    "more readable event names"
+
+[33mcommit c64d9fbf97650c439eaf18b3bd6f4eecbb3ba114[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 22:57:58 2012 +0000
+
+    "added `impress-enabled` and `impress-disabled` CSS classes used in impress initialization"
+
+[33mcommit e06cda174e58b6f678e321e0b23f827a51dfca0f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 22:48:33 2012 +0000
+
+    "cleaning the code after `init` refactoring"
+
+[33mcommit a055e97a54ef1d3cdd4f1ff17463d73ca3296660[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 22:29:45 2012 +0000
+
+    "navigation handlers are now added when impress is initialized"
+
+[33mcommit 70bc3b737b4db64c648873620b14ba77004150ba[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Mar 12 21:51:07 2012 +0000
+
+    "impressive API update - added initialization `init` function and event"
+
+[33mcommit 8220ab9393a9b135b6171d700e7c5f9167379420[m
+Merge: abfa87d b59a4bf
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Mar 11 19:59:02 2012 +0000
+
+    "merge with master branch (release 0.4.1)"
+
+[33mcommit b59a4bf4d7cca990f913a18d4aedaf8b3598577e[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Mar 11 09:15:35 2012 +0000
+
+    "bugfix release 0.4.1"
+
+[33mcommit 78f2ce657c9e04182cee8ad0db23b5f92dabc2c6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Mar 11 09:10:36 2012 +0000
+
+    "fallback mode fix"
+
+[33mcommit abfa87dc9176114c869647bbaf504535b93ff5bc[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 23:24:41 2012 +0000
+
+    "recent impressive changes added to changelog"
+
+[33mcommit 5fd0f58fc6c89e556410d07a54997cabc48b2c14[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 23:11:56 2012 +0000
+
+    "`present` and `past` can't appear together on element"
+
+[33mcommit b23506e885d33b53191dc0675c0a05585895a24a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 23:06:48 2012 +0000
+
+    "`past`, `present` and `future` classes on step elements"
+
+[33mcommit b0a139ef81aaa73a5227b5ac47b6caf8f58d359d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 22:51:20 2012 +0000
+
+    "removed unnecessary transitions and jumpiness when presentation starts"
+
+[33mcommit 1bbf205bc71b89b0f72a83ac6a1e7f5c4c0f46b1[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 22:36:08 2012 +0000
+
+    "added impressive events when step is entered and left, triggered by transition end"
+
+[33mcommit e2a13e35d681b9dd13700a49306c00031ae7d038[m
+Merge: 2f677e1 adb2fc4
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 20:36:53 2012 +0000
+
+    Merge branch 'master' into dev
+
+[33mcommit adb2fc498b6efa107e8b9473e065171135a446c6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 20:36:25 2012 +0000
+
+    "a note about contributions"
+
+[33mcommit 2f677e1292605c21d867a91f987b1bfbb94df7da[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 20:22:32 2012 +0000
+
+    "next version in development"
+
+[33mcommit 6314e2e15012c9db69f76e77a8bb1c437a7312b8[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 19:55:40 2012 +0000
+
+    "release 0.4"
+
+[33mcommit 2b58f53708d39f1e3de78b831cd049a90890705e[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 19:18:01 2012 +0000
+
+    "making jshint even more happy with custom config"
+
+[33mcommit a20c50db258fbd3725b968da3343ead2af211196[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 18:26:12 2012 +0000
+
+    "making jshint (almost) happy"
+
+[33mcommit 92181f58f0cbd2849445767d220279b296ef61fe[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 15:45:16 2012 +0100
+
+    class names updates added to change log
+
+[33mcommit 9d495abba78ed5504ba05a2cf05682a694d27a1f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 15:39:22 2012 +0100
+
+    impressive class names refactoring
+
+[33mcommit 5cb28b612ff80627f90e7373aa22a4166a0abcaa[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 12:33:56 2012 +0100
+
+    changelog of 0.4pre updated
+
+[33mcommit 69a69204e79555ed7d8ef321f95b43e5ab063f0d[m
+Merge: 207c823 fa12a75
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 03:22:27 2012 -0800
+
+    Merge pull request #120 from t3kila/master
+    
+    Added t3kila.com to example websites.
+
+[33mcommit 207c823a694816daf315e1172954ab5a539457b5[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 12:20:20 2012 +0100
+
+    `goto` is a future reserved word, so API method is renamed to `stepTo`
+
+[33mcommit 047c1c25a188e72ba01f9dee0699834cd3b4201b[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 10 11:59:46 2012 +0100
+
+    impressive favicon added
+
+[33mcommit fa12a75011822b53f50514cabbf692ddc476c9ad[m
+Author: t3kila <romain.wurtz@gmail.com>
+Date:   Fri Mar 9 09:52:56 2012 -0800
+
+    Add my website
+
+[33mcommit 2131784feaf59a41437c6d9bf5d7a8ab55eeb177[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 22:56:13 2012 +0100
+
+    perspective and transition duration added to config
+
+[33mcommit 5ff03982a1e7e6d91152d4ec0ebde63f798535e1[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 22:35:08 2012 +0100
+
+    added number validation and impress.js config
+
+[33mcommit eb4df9c0ee6313d564bb63f76a80eb52ad2fa63c[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 21:59:41 2012 +0100
+
+    minimum and maximum scale added to config
+
+[33mcommit 807943dadc266f57caea0eba6ae0e680c787b99c[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 21:02:05 2012 +0100
+
+    keyboard handler updated - now triggering actions on keyup
+
+[33mcommit efae004bc8f79e8a43d2b749161e14c2c19257fb[m
+Merge: 811e045 40acfb1
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 20:27:37 2012 +0100
+
+    Merge branch 'master' into scale
+
+[33mcommit 40acfb1a7299058fbc23ea43d0a81ca2abd9907c[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 20:23:33 2012 +0100
+
+    now Firefox 3.6 correctly Yoda should parse
+
+[33mcommit c382aeb71081138e461685d5e7edcaeca488c821[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 20:20:10 2012 +0100
+
+    fixing broken event delegation when clicking on body - issue #113
+
+[33mcommit e1786e38e91ae445bb1caf968907292ec247f80c[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Mar 8 16:20:33 2012 +0100
+
+    couple of typos and inline script warning in courtesy of @gustaff-weldon
+
+[33mcommit 811e045c60ff32afb4b7f287a4b054cf089b94fe[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 7 23:50:29 2012 +0100
+
+    perspective as a function for better Firefox support
+
+[33mcommit 7a7d3e71199867009aed9e120e1e397ee35f6995[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 7 23:37:04 2012 +0100
+
+    throttle on keydown (arrows) causes scrolling on Firefox
+
+[33mcommit 8321fa7861d32f980173a286b574a1954e954d11[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 7 23:02:09 2012 +0100
+
+    iPad viewport size less hardcoded
+
+[33mcommit 74a309a8036e1054989500ab06b3452ee8a1558d[m
+Merge: 8eb5442 8a0b80d
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 7 22:43:12 2012 +0100
+
+    Merge branch 'master' into scale
+
+[33mcommit 8a0b80d5ac65631d7e5b27b1714d12d1b7dd73ce[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Mar 7 22:38:37 2012 +0100
+
+    sad but true ... `history.pushState` is too buggy to be useful at this point
+
+[33mcommit 8eb5442e2f20bcfb962b50bf2401458af248defe[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 22:38:03 2012 +0100
+
+    rescaling presentation when window is resized
+
+[33mcommit 456817d3b59a9e800bcad292a5d74c2dc4d2f502[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 21:43:38 2012 +0100
+
+    scaling elements to make them fit the screen (by @fmate14)
+
+[33mcommit 45fcf19c4d2c8096fbafe71de67e2c5279d4d70d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 21:11:08 2012 +0100
+
+    using history.pushState instead of location change in courtesy of @medikoo
+
+[33mcommit 3fceded114eacc1576a64e7ebfbab6d4a891eb61[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 21:01:21 2012 +0100
+
+    GPL license added
+
+[33mcommit a6c2f37357ae9ab5b64922c8f136253c97b8690e[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 20:00:57 2012 +0100
+
+    development version in README
+
+[33mcommit 62350f407558ad1eeb2d48d39cd06b9b60c0daf4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 13:57:52 2012 +0100
+
+    it's not 0.3 anymore
+
+[33mcommit 0a82172d25a6528719e1625174bfcf6dd8aa2166[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Mar 6 13:45:29 2012 +0100
+
+    added link to Chrome location change bug
+
+[33mcommit d43232fa90f127edbec202a83ee833782b7ab0ba[m
+Merge: d93c7b6 138cbab
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Mar 3 11:23:57 2012 -0800
+
+    Merge pull request #93 from richardneville/master
+    
+    Hi! We've used impress.js for our site too!
+
+[33mcommit d93c7b66973600d50a1dceb870de71e979ced24f[m
+Merge: 36816e3 aa451fc
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 29 14:42:07 2012 -0800
+
+    Merge pull request #108 from sylvainw/master
+    
+    Adding my presentation about "HTML5 future" into the Readme list
+
+[33mcommit aa451fcd6ad4e3b3aa0b4148b9ccabfe56d3100e[m
+Author: Weber <sylvain.weber@gmail.com>
+Date:   Wed Feb 29 23:05:50 2012 +0100
+
+    Adding my presentation about HTML5 future into the list, according to @bartaz
+
+[33mcommit 36816e3b4288962a452dcc5a4f59df6b0e5257ef[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Feb 19 13:06:29 2012 +0100
+
+    release 0.3
+
+[33mcommit 0ee071780aa22dffd25345338acaae9bbf271ed3[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Feb 18 22:49:34 2012 +0100
+
+    impressive browser support
+
+[33mcommit 2324484152227791a12da562cd05014febd05c8e[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 16 13:33:06 2012 +0100
+
+    more helpful hint for touch devices
+
+[33mcommit c7ce6af1c811d92aa4bbc5958cf6877d7d2f7fa4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 16 11:27:25 2012 +0100
+
+    iPad trial and error
+
+[33mcommit 957599ab20ee112462766578340b134613b1a21b[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 16 11:05:56 2012 +0100
+
+    scale fixes for iPad
+
+[33mcommit a2f4337ec2004116b46892482de0149608d1e773[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 23:56:03 2012 +0100
+
+    iPad viewport now defined in script to avoid breaking mobile fallback mode
+
+[33mcommit 59e1c483bc76354b81a50efb946a527493655c5a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:52:06 2012 +0100
+
+    even more iPad love
+
+[33mcommit 2b22ee3b4b6231db476f7a02988dbde0d54d83f2[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:46:00 2012 +0100
+
+    some iPad love
+
+[33mcommit 5a2e369117550757445f6e7e384e21f6aa4e3c93[m
+Merge: 9f1ff58 309d5a3
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:29:24 2012 +0100
+
+    Merge branch 'master' of github.com:bartaz/impress.js
+
+[33mcommit 9f1ff58480e82f143f54e5b746e1bdc4244f96f2[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:28:21 2012 +0100
+
+    conflict fix
+
+[33mcommit c733c1ae3803bd9e1bb9e65e478af101256728a7[m
+Author: Nuri Hodges <nuri@irunbackwards.com>
+Date:   Thu Feb 9 09:57:26 2012 -0800
+
+    Spelling correction! don't we -> do we
+
+[33mcommit 9161a9afa9cc80c7d9a6abbff170d7b40c418f32[m
+Author: Exequiel Ceasar Navarrete <exequiel.navarrete09@gmail.com>
+Date:   Wed Feb 8 06:15:30 2012 +0800
+
+    Updated Readme.md
+
+[33mcommit 309d5a396515141dd49de1f6e448e78eaa15de74[m
+Merge: 224c75b d518b8d
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:20:43 2012 +0100
+
+    Merge branch 'master' of github.com:bartaz/impress.js
+
+[33mcommit 224c75b4636d26e02c005ea0c0b0cf17659a480a[m
+Merge: a62f419 14a86ef
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:20:02 2012 +0100
+
+    impressive api merged
+
+[33mcommit 14a86ef9efcd234e2fd11704130254df07730db6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:12:15 2012 +0100
+
+    README updates
+
+[33mcommit ff81a1305411ac269b1a494e320b87c4d7d558d2[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:10:56 2012 +0100
+
+    some very basic documentation of the API
+
+[33mcommit f248a39aabfe3aa42f676b0ae9cf4b0375a1c122[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 21:01:19 2012 +0100
+
+    even more friendly ending ;)
+
+[33mcommit 7c46679b39dc7a48d8f6f8aee3eb08e3ec400fa5[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 20:53:41 2012 +0100
+
+    comment update after API changes
+
+[33mcommit db5857afdafea7e7fd4f35be9c6155fa36c33956[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 15 20:39:45 2012 +0100
+
+    impressive touch support
+
+[33mcommit cfe6448594157e3c5ce2383525ce6f23f0a07bb3[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 1 21:28:55 2012 +0100
+
+    impressive API
+
+[33mcommit 138cbab3ce397c5cad55f64d498786e173b1e62d[m
+Author: Richard Neville <richard@electricanimal.co.uk>
+Date:   Tue Feb 14 14:19:15 2012 +0000
+
+    Added electricanimal.co.uk as another example site using impress.js
+
+[33mcommit d518b8dfe3a6f512ec1146918b768a83972a45af[m
+Merge: 413d3d5 54d2650
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 9 10:00:34 2012 -0800
+
+    Merge pull request #91 from nhodges/patch-1
+    
+    Spelling correction! don't we -> do we
+
+[33mcommit 54d2650d35469f6ff912e55fe99c702a9287e985[m
+Author: Nuri Hodges <nuri@irunbackwards.com>
+Date:   Thu Feb 9 09:57:26 2012 -0800
+
+    Spelling correction! don't we -> do we
+
+[33mcommit 413d3d5b7865ab5e4030e5e9ebfc5d9edf04be59[m
+Merge: a62f419 cf2cf67
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Feb 7 23:37:48 2012 -0800
+
+    Merge pull request #90 from exequiel09/master
+    
+    added "Careers in Free and Open Source Software" to impress.js presentations list
+
+[33mcommit cf2cf67ab72434ceebac2ca3f4445b5448e5cb67[m
+Author: Exequiel Ceasar Navarrete <exequiel.navarrete09@gmail.com>
+Date:   Wed Feb 8 06:15:30 2012 +0800
+
+    Updated Readme.md
+
+[33mcommit a62f419cb9f9e7eb30a735002c98390dafac595f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 2 21:51:38 2012 +0100
+
+    changelog updates
+
+[33mcommit 343299c63fc57b9ee2b5c0938ec0c223f3298821[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 2 21:48:48 2012 +0100
+
+    enable clicking on elements 'hiding' behind body in 3D
+
+[33mcommit 1e5038207db25b9b84a3dadaa82a755a4502ce8b[m
+Merge: 7b4393c 4e80652
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 2 20:43:25 2012 +0100
+
+    Merge branch 'master' of github.com:bartaz/impress.js
+
+[33mcommit 7b4393cfc95ff5dee41edf3353a16dc2e305df59[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Feb 2 20:43:02 2012 +0100
+
+    fixed 3D text in Firefox ... is it Firefox bug, Webkit bug or specification bug? :)
+
+[33mcommit 4e8065277d84610afc1fc7dd45d8885b74a73a5f[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Feb 1 14:58:26 2012 +0100
+
+    yet another impress.js example
+
+[33mcommit 9641f5750ba9a8a46c2bf4e5f7cdec192cc39166[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 30 20:35:47 2012 +0100
+
+    step data moved from DOM to internal data structure
+
+[33mcommit 65fcaeed0a70a761405a63663ba3692c57988ec0[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 30 20:05:56 2012 +0100
+
+    next version is comming
+
+[33mcommit 3d9360cf846ca9a117c3cfa7302363809b5e5cf4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 30 20:02:53 2012 +0100
+
+    release 0.2
+
+[33mcommit 3fef9f9b6f429af46f49ffc07df9825f186dfdbe[m
+Merge: 7d2d581 29e9e63
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Jan 28 05:54:42 2012 -0800
+
+    Merge pull request #77 from medikoo/medikoo-expose-asynchronous-javascript
+    
+    updated url to "Asynchronous JavaScript" presentation
+
+[33mcommit 7d2d581f9b4d6db94cb729dc54f92a4c30e5945a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Jan 28 14:39:55 2012 +0100
+
+    examples reordering
+
+[33mcommit 1b6e668ab4e98b3782318afb3af977b82885787d[m
+Merge: a6970d1 26034fc
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Jan 28 05:37:19 2012 -0800
+
+    Merge pull request #82 from alecrust/master
+    
+    added "Introduction to Responsive Design" presentation to Examples and Demos
+
+[33mcommit 26034fc27776a1bc2b9c9bcbfbd11311f335a95c[m
+Author: Alec Rust <me@alecrust.com>
+Date:   Fri Jan 27 19:24:24 2012 +0000
+
+    Added "Introduction to Responsive Design" presentation to Examples and Demos
+
+[33mcommit 29e9e638070fa45c71959afc903228069b4e40a3[m
+Author: Mariusz Nowak <mariusz@medikoo.com>
+Date:   Wed Jan 25 16:35:03 2012 +0100
+
+    Updated url to "Asynchronous JavaScript" presentation
+
+[33mcommit a6970d15fdaa56ad0335bc923bdfe803cbd88e25[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 24 23:37:45 2012 +0100
+
+    even more impressive docs
+
+[33mcommit 2e8389fdde982ebc514fbbdf029ae8dafc3d85a0[m
+Merge: e968933 d8f70bd
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 24 05:12:22 2012 -0800
+
+    Merge pull request #74 from medikoo/strict-mode
+    
+    making Douglas happy
+
+[33mcommit d8f70bdb15c4c685fd5cdfb28336b07ad7f69f98[m
+Author: Mariusz Nowak <mariusz@medikoo.com>
+Date:   Tue Jan 24 13:36:07 2012 +0100
+
+    Use strict mode
+
+[33mcommit e96893311ed2ef247175f96110dd880779da403a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 24 08:34:16 2012 +0100
+
+    IE support clarified
+
+[33mcommit 88a5996d4cd11b05c708d8bb4c82fcb468c1060a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Jan 21 19:16:53 2012 +0100
+
+    added portfolio site by @NiceShots to examples
+
+[33mcommit b34f71c931fadb60b7714299e4de56308560bc77[m
+Merge: bb0113e 7821ea9
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Jan 20 16:08:24 2012 +0100
+
+    Merge branch 'master' of github.com:bartaz/impress.js
+
+[33mcommit bb0113e5be76fabde364363e2e6a72784b641dfe[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Jan 20 16:06:23 2012 +0100
+
+    disabled animation on the beggining of the presentation
+    
+    applied fix as shown in pull request #30 (that couldn't be merged automatically)
+
+[33mcommit 7821ea9faae04d5db0b0a808a0fc45243f7d3651[m
+Merge: 5fc00a1 4818cf4
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 18 22:56:03 2012 -0800
+
+    Merge pull request #65 from dolanor/master
+    
+    impressive typo fixed - because even little things matters
+
+[33mcommit 4818cf4164bcde142b2a7de79c97a6c01b63373f[m
+Author: Tanguy Herrmann <dolanor@gmail.com>
+Date:   Thu Jan 19 00:11:18 2012 +0100
+
+    Very important thing
+
+[33mcommit 5fc00a1cf637ea9e82f9d4bfc6d89b84addd6b3a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 18 12:26:16 2012 +0100
+
+    that was impressive name switch :)
+
+[33mcommit 5ea857e6c2c09783bbe91fa66c4caccd15557c32[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 18 00:30:11 2012 +0100
+
+    impressive documentation added, but not in a way you'd expect probably ;)
+
+[33mcommit 5cc12cdca15de56e3a93c10d884cf9736dbacfc7[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 17 22:34:22 2012 +0100
+
+    README clean-up
+
+[33mcommit da84694fdb4ddaecb7921f0479f274f2b01ca746[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 17 22:32:30 2012 +0100
+
+    impressive refactoring of slide selection - getting closer to API
+
+[33mcommit d2ce96a1f34c84d9745b489129521054e3cdf6ea[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 17 22:08:45 2012 +0100
+
+    removed mousewheel, sorry @OpenGrid, maybe it will be back as optional feature some day
+
+[33mcommit 6ada2acb1e3479afe08053b2f3688b129d23c078[m
+Merge: 3b61cd8 b649b51
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 17 11:40:11 2012 -0800
+
+    Merge pull request #64 from medikoo/medikoo-expose-asynchronous-javascript
+    
+    added "Asynchronous JavaScript" by @medikoo to presentations demos list
+
+[33mcommit b649b51f917694db8813bfa0fb8ff7ea9979edbe[m
+Author: Mariusz Nowak <mariusz@medikoo.com>
+Date:   Tue Jan 17 20:31:54 2012 +0100
+
+    Added "Asynchronous JavaScript" to presentations demos list
+
+[33mcommit 3b61cd86214005c017beb11fbc6818d3a7dcdfc7[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 16 21:53:07 2012 +0100
+
+    added my impressive CSS 3D presentation from meet.js summit
+
+[33mcommit 77312163d87bf00a3357f484cef658d84a458c2b[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 16 11:53:51 2012 +0100
+
+    added link to a blog post about how Museum140 video was made
+
+[33mcommit 714d72f20f62b96ab6485da2a1dd52c19383636e[m
+Merge: a0f3dd6 b8808e6
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 16 02:52:04 2012 -0800
+
+    Merge pull request #56 from thingsinjars/patch-1
+    
+    added a link to a Museum 140 promo video
+
+[33mcommit a0f3dd694984d1658242c1cb2a2643dc90727b1a[m
+Merge: 345423c 85adb2d
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 16 02:12:22 2012 -0800
+
+    Merge pull request #60 from Metallion/master
+    
+    link to Wakame-VDC presentation added
+
+[33mcommit 85adb2df0842f32e5c4d89fba402318f554e94c3[m
+Author: Metallion <akieckens@axsh.net>
+Date:   Mon Jan 16 13:15:03 2012 +0900
+
+    Added Wakame-VDC presentation to README.md
+
+[33mcommit b8808e6ccfeb1b84e79bdf6011a20f953ae20d8b[m
+Author: Simon Madine <linus+github@thingsinjars.com>
+Date:   Fri Jan 13 21:11:09 2012 +0100
+
+    Added a link to a promo video made using ImpressJS
+
+[33mcommit 345423cbc3cc762bf2c17f462b831248d17c0265[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Jan 13 09:41:10 2012 +0100
+
+    wrong brackets ;)
+
+[33mcommit 27ff4e5818acd2c1b4619176ed3d92171ac3f513[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Jan 13 09:40:31 2012 +0100
+
+    added impressive website using impress.js by Al Ingham
+
+[33mcommit 995c47248878e1822f80df723a49b36f17741e87[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 21:50:21 2012 +0100
+
+    am I removing features? yes, it was a bad idea after all and I really hope that noone will notice ;)
+
+[33mcommit 8cd464a92660b311d9d40894f0b43b2ef191e0a1[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 21:31:18 2012 +0100
+
+    yeah, that's what happens when you do quick fixes using timeouts...
+
+[33mcommit c5b11276504422322a8da5f8a328a62461e73d19[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 21:06:15 2012 +0100
+
+    added master changelog
+
+[33mcommit 65c456cb47fde46945e793e18c145541d624de3a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 20:47:42 2012 +0100
+
+    delaying hash change not to spoil the transition in chrome
+
+[33mcommit 3b5fd448b1abb9d019ea9f1a23689a01802f5963[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 20:45:54 2012 +0100
+
+    tiny little fixes
+
+[33mcommit 185ba4ea767102669a8d92be637510832c49c33c[m
+Merge: 8b3c38a bf8a540
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 11:08:37 2012 -0800
+
+    Merge pull request #54 from Haacked/selectGuard
+    
+    select method updated to not run if the element is already active
+
+[33mcommit bf8a540e757b7f9d0c839e6d9315964c20fc449f[m
+Author: Haacked <haacked@gmail.com>
+Date:   Thu Jan 12 08:20:25 2012 -0800
+
+    Updated select method to not run transitions if the element is already active
+
+[33mcommit 8b3c38afe2c8ee17ec454e7df9fa560dfa20f2cd[m
+Merge: 940a28b 11e5ddc
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 03:51:21 2012 -0800
+
+    Merge pull request #51 from OpenGrid/patch-1
+    
+    impressive mouse wheel support added
+
+[33mcommit 940a28b2463e6f3f1bb0a764575ed79a7f7e9f9d[m
+Merge: ba1bba1 a654a87
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Jan 12 03:39:02 2012 -0800
+
+    Merge pull request #52 from fulljames/patch-1
+    
+    Yet another impressive demo added
+
+[33mcommit a654a873ea56aa83a327048f3223eaa807631652[m
+Author: Stephen Fulljames <stephen@fulljames.net>
+Date:   Thu Jan 12 11:22:18 2012 +0000
+
+    Update README.md
+
+[33mcommit 11e5ddc77a7927305f20016cf507791050837aca[m
+Author: Lech Wilczyński <lech.wilczynski@gmail.com>
+Date:   Thu Jan 12 12:08:21 2012 +0100
+
+    Added mouse wheel event listener to select next slide
+
+[33mcommit ba1bba11d6ee40854ddddf13c63f58e93a6597dc[m
+Merge: b83b7e6 43b9137
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 11 03:43:28 2012 -0800
+
+    Merge pull request #45 from lioshi/master
+    
+    lioshi.com added to impress.js demos in README.md
+
+[33mcommit 43b9137dfb5939c2a92bfcd7f094ea7b7c089317[m
+Author: lioshi <lionel.fenneteau@gmail.com>
+Date:   Wed Jan 11 12:31:39 2012 +0100
+
+    Update README.md
+
+[33mcommit b83b7e6432b1f70e5f285be68a14b466d4f4e22d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 21:30:08 2012 +0100
+
+    impressive use of impress.js by John Polacek
+
+[33mcommit 938550944a5cf60f5406522905ba8237ec117d74[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 21:26:44 2012 +0100
+
+    even more impressive link to release source
+
+[33mcommit 9c08178ad5aca2254007a0c2ea3c23204fedeff0[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 21:17:25 2012 +0100
+
+    impressive link to release source
+
+[33mcommit 50b89cdf2906fef79ec9384a7313198a71ede63d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 21:13:23 2012 +0100
+
+    impressive README updates
+
+[33mcommit 194a3ac53cee20784c381d342fd7303d6cfb4454[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 21:03:41 2012 +0100
+
+    first impressive release
+
+[33mcommit b12fbbe9f6810f335e983c317337d5a23bbe59d6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 8 20:57:37 2012 +0100
+
+    changing the name of styles file to make it even more clear that these are only styles for demo presentation
+
+[33mcommit 8e82782499996c374125ab15c7eead7632413b6e[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 23:53:12 2012 +0100
+
+    removed message about supporting IE10, as it is likely to be incorrect
+
+[33mcommit 0edcf9021ece57d68f86e67188f2cb20c5bee473[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 23:42:50 2012 +0100
+
+    impressive step click support
+
+[33mcommit 67eb225ee171dd08421db090a6ab5c319a389357[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 22:49:06 2012 +0100
+
+    tiny position update after fixing perspective
+
+[33mcommit e7b8b9b26c2febea532f4e5a97cfdeb1c62e26e4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 22:42:11 2012 +0100
+
+    impressive refactoring - no need to search for active step every time...
+
+[33mcommit 09a021ec38701ef15cb33c29ecf80dd4025eb7d4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 22:07:52 2012 +0100
+
+    fixing the perspective for scaled steps
+
+[33mcommit d0d67fe4357cefdce459816d7f55925cc6b0801d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 20:44:30 2012 +0100
+
+    impressive explanation about browser support
+
+[33mcommit 8953f37397cf89b3341401eea3d23de847471099[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Jan 4 00:04:23 2012 +0100
+
+    preventing all scroll events was not such an impressive idea after all...
+
+[33mcommit 88cb10dbd1c7c883757aee4d49cecfa530c08365[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Tue Jan 3 23:46:33 2012 +0100
+
+    impressive interdimentional links support added with hash based bookmarkable urls to steps
+
+[33mcommit 755edaf60c5908cc828fdd658b95688bc0b6f5e4[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 22:39:09 2012 +0100
+
+    some trailing commas removed, so closure compiler doesn't complain
+
+[33mcommit 821cf549fc263905b63e21595fd6e86a39a6326c[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 22:08:50 2012 +0100
+
+    impressive navigation hint added
+
+[33mcommit 34568182ef64f9bdc1025f25835fbaae18f194c6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 21:37:20 2012 +0100
+
+    impressive... how did it work before?!
+
+[33mcommit 19029d2c1df7198906e806e12cd42dd63459845b[m
+Merge: 10905d8 848f50f
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 12:22:33 2012 -0800
+
+    Merge pull request #15 from makaimc/master
+    
+    impressive presentation pointers support added!
+
+[33mcommit 848f50ffa84525b81599af4bf442fc1e00e184de[m
+Author: Matthew Makai <makaimc@gmail.com>
+Date:   Mon Jan 2 12:57:14 2012 -0500
+
+    Adding pg up & pg down to go forward and reverse because most presentation pointers (such as the Logitech R800 I tested with) use those keys for forward/back.
+
+[33mcommit 10905d882414c9876ce363a42364bd332851cb92[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 11:22:19 2012 +0100
+
+    it was the other one ;)
+
+[33mcommit d6d78341b9819b6c1d13b40de4f031aeeecf442b[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 11:08:57 2012 +0100
+
+    impressive note about roots of impress.js name
+
+[33mcommit e4f31af4a6cfcbedf8738ce3c108162771362de6[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 09:18:43 2012 +0100
+
+    impressive hardware acceleration note added to browser support
+
+[33mcommit dc12069b40fc382acf127a35b9e1d9162fc527af[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Mon Jan 2 09:04:57 2012 +0100
+
+    impressive comment in the stylesheet, so it's more clear that it's just a demo style
+
+[33mcommit 5fd27b3e21969727bdac425fd7c9e6c4136ebf77[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 1 11:04:57 2012 +0100
+
+    impressive README updates
+
+[33mcommit 0ece4dbfb3bf08d90b1e3f6f9b0b0d32f3d18be0[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 1 10:52:26 2012 +0100
+
+    (not) impressive mobile detection and forcing fallback mode for iOS and Android (as they support CSS 3D transforms)
+
+[33mcommit 53862c9f9a5d6b1ce37626e7e1cda1bcb71fc781[m
+Merge: f919fe9 3f04c5e
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sun Jan 1 01:14:52 2012 -0800
+
+    Merge pull request #2 from shama/master
+    
+    Grammar fixes in fallback message
+
+[33mcommit 3f04c5e6c7d480ddbb709bd287ff9a0607b6aca1[m
+Author: Kyle Robinson Young <kyle@dontkry.com>
+Date:   Sat Dec 31 13:12:09 2011 -0800
+
+    Grammar fixes in fallback message
+
+[33mcommit f919fe9b084ef7fdfe45b84e150fe67cfa4329c3[m
+Merge: 7e7c2b3 59ef632
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 05:01:51 2011 -0800
+
+    Merge pull request #1 from jasondavies/typo
+    
+    Fix typo: "than" -> "then".
+
+[33mcommit 59ef63227f90ecefe84697090832516ff55d3f71[m
+Author: Jason Davies <jason@jasondavies.com>
+Date:   Sat Dec 31 12:59:34 2011 +0000
+
+    Fix typo: "than" -> "then".
+
+[33mcommit 7e7c2b3688de6cc01998c3665c59b663f7cad744[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 13:58:19 2011 +0100
+
+    impressive license
+
+[33mcommit 32a5c398573cf18c30cb26f8d6e1a506a58b6772[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 13:41:50 2011 +0100
+
+    impressive hardboiled fallback support added
+
+[33mcommit 5ca2c6f510ed152d7ad568994ea824ec184e144d[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 10:53:01 2011 +0100
+
+    trying to work around scrolling-on-focus bug, not impressive at all...
+
+[33mcommit ec069e17320ae2549061f8f2583b134e7e96f208[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 10:23:34 2011 +0100
+
+    impressive typo/bug fixed
+    
+    and BTW, firefox doesn't understand transition delay of 0, he needs 0ms... orly?
+
+[33mcommit da7a27d44ed4e0e179c6d31e9b36a4cc97b688fb[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Sat Dec 31 09:48:13 2011 +0100
+
+    impressive demo content added
+
+[33mcommit 3a67355863a0f7df1cc3512248cb50ff315169d0[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Fri Dec 30 14:01:16 2011 +0100
+
+    impressive markup clean-up - wrapper elements now automagically generate themselves
+
+[33mcommit 118f92e33cfd0ee25883c9a173926393cc84b329[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 23:56:17 2011 +0100
+
+    tab key can now also be used to move to next presentation step (to prevent default focus behavior that breaks zoom), impressive, isn't it?
+
+[33mcommit 273393942fa67ec5af722384205e0adaf5608c23[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 23:34:26 2011 +0100
+
+    impressive 3d support, yeah!
+
+[33mcommit 336f6c7704031b7230e98d8ff1eac1041ba0e283[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 20:25:46 2011 +0100
+
+    impressive simplifications
+
+[33mcommit 0b3555291be18d354a85f5f345012ff0d87cf240[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 20:04:08 2011 +0100
+
+    impressive code clean-up
+
+[33mcommit 69ed89d2277d15372c40e628805bedb775dc9f4a[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 18:49:46 2011 +0100
+
+    impressive refactoring - added `css` and `extend` helper functions for DRY goodness
+
+[33mcommit 24e4056e7fd1baa3777129039903bc743c686514[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Thu Dec 29 15:36:02 2011 +0100
+
+    impress.css is now moved to impress.js
+
+[33mcommit b15963042e6f6edcba36b737ecce97d532a8f527[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Dec 28 23:50:39 2011 +0100
+
+    impressive browser support note added
+
+[33mcommit c46d39b0de9da0b66c7cbf18fcae08e363c417d7[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Dec 28 23:32:42 2011 +0100
+
+    initial commit of impress.js and demo presentation
+
+[33mcommit 0c7f9cc2b14f9a5c68f7847f13a7708934fe16e5[m
+Author: Bartek Szopka <bartek.szopka+github@gmail.com>
+Date:   Wed Dec 28 23:28:22 2011 +0100
+
+    impressive README
