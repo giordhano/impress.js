@@ -1,1 +1,5 @@
 
+var Nuevo_componente = {
+
+	
+}
